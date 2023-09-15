@@ -1,0 +1,13 @@
+depsversion = "0.0.0"
+
+name = "piot/cpu-bound-simulator"
+version = "0.0.0"
+
+[[dependencies]]
+name = 'piot/clog'
+version = "*"
+
+
+[[dependencies]]
+name = 'piot/monotonic-time-c'
+version = "*"
